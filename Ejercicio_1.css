@@ -1,0 +1,15 @@
+.btn-modern {
+   padding: 10px 20px;
+   background-color: #eaeaea;
+   color: #000;
+   border: none;
+   cursor: pointer;
+   transition: all 0.4s;
+}
+
+.btn-modern:hover {
+   transform: translateY(-5px);
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+   background-color: #ccc;
+   color: #fff;
+}
